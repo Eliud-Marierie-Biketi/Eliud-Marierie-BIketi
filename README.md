@@ -13,7 +13,11 @@
 
 - 👯 I’m also working on **FarmZan**
 
-- 👨‍💻 Mobile projects are available at [https://www.datascienceportfol.io/elmariebiks03](https://www.datascienceportfol.io/elmariebiks03)
+- 👨‍💻 Mobile projects are available at
+-
+  .[https://marierie.netlify.app/](https://marierie.netlify.app/)
+  and
+  [https://www.datascienceportfol.io/elmariebiks03](https://www.datascienceportfol.io/elmariebiks03)
 
 - 📝 I regularly write articles on [https://medium.com/@eliudmarierie](https://medium.com/@eliudmarierie)
 
